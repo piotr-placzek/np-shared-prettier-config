@@ -1,0 +1,11 @@
+{
+    "name": "@piotr-placzek/np-shared-prettier-config",
+    "version": "1.0.0",
+    "description": "Shared prettier config.",
+    "main": "prettier.config.js",
+    "repository": "https://gitlab.com/piotr-placzek/np-shared-prettier-config.git",
+    "author": "Piotr Płaczek",
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com"
+    }
+}
