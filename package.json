@@ -1,5 +1,5 @@
 {
-    "name": "@piotr-placzek/np-shared-prettier-config",
+    "name": "@piotr-placzek/prettier-config",
     "version": "1.0.0",
     "description": "Shared prettier config.",
     "main": "prettier.config.js",
